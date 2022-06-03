@@ -1,0 +1,19 @@
+{
+  "name": "hongda-george",
+  "version": "1.0.0",
+  "description": "Data science Scripts in python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMurf/Hongda-George.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMurf/Hongda-George/issues"
+  },
+  "homepage": "https://github.com/GMurf/Hongda-George#readme"
+}
